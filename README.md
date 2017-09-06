@@ -2,13 +2,12 @@
 ##使用方法
 
 
-1.需要NodeJS环境
+1.需要[NodeJS](https://nodejs.org/en/)环境
 
 2.在终端使用
 
 ```
 node bomkill.js targetdir
-
 ```
 
 targetdir为含bom头文件所处文件夹路径
